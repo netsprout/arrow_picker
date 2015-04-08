@@ -26,3 +26,9 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+# TODO
+* Figure out all variables that make up arrow
+* Create db schema (migrations) based on data storage
+* Find arrow lookup chart and store that data in db
+* Create calculator to process all variables, for best possible arrow
